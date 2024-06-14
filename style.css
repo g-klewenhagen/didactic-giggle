@@ -86,3 +86,10 @@ p {
 .email-link:hover {
     text-decoration: underline;
 }
+@media (max-width: 576px) {
+    h1 {
+        font-size: 40px;
+        color: blue;
+        text-align: center;
+    }
+}
